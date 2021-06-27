@@ -1,15 +1,5 @@
-<tbody><tr><td style="background-color: #FFFFFF; height: 55px;">
-	<p style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 22px; margin-left: 0px; margin-top: 5px; margin-bottom: 0px;">
-	<span style="font-size: 18px"><strong style="text-align: center">Welcome to Free Web Hosting Area!!</strong></span></p></td>
-<td style="background-color: #FFFFFF; text-align: center; height: 50px; width: 203px;">
-	<a href="https://www.freewebhostingarea.com/contact/"><img src="/img/contact.gif" alt="Contact Us" style="height: 38px; width: 127px; border-style: solid; border-width: 0px; border-color: #FFFFFF"></a>
-</td></tr>
-	
-	<tr><td style="background-color: #F1F1F1;" colspan="2"></td></tr>
+<table style="width: 815px; margin-left: auto; margin-right: auto;">
 <tr><td style="background-color: #FFFFFF; font-family: Verdana, Geneva, Tahoma, sans-serif;" colspan="2">
-	
-	
-	
 	<span style="font-size: 12px">Account </span><strong>
 	<span style="font-size: 12px">chenboye.xp3.biz</span></strong><span style="font-size: 12px"> 
 	was successfully activated. Your address is </span>
@@ -21,23 +11,20 @@
 	<span style="font-size: 14px; color: #000000">ATTENTION!!</span><span style="color: #FF0000; font-size: 14px"> 
 	This page contains all details about your account. Save it now to your 
 	computer for further access, as we don't send a copy by email!</span></strong><span style="font-size: 12px"><br></span><br></td></tr>
-	<tr><td style="background-color: #C8D7E3; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 13px;" colspan="2"><strong>FreeWHA Control Panel</strong></td></tr>
 	
-	<tr><td style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 12px; height: 100px;" colspan="2">	
+<tr><td style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 12px; height: 100px;" colspan="2">	
 		<p style="margin-top: 5px; margin-bottom: 0px;">Always access your control panel using	<a href="http://chenboye.xp3.biz/cpanel" style="color: #0000FF">http://chenboye.xp3.biz/cpanel</a>. This way you will be redirected to the proper server.</p>
 		<p style="margin-top: 10px; margin-bottom: 10px">Log in using:</p>
 		<p style="margin-top: 10px; margin-bottom: 10px; margin-left: 10px;">
-		<strong>Username:</strong> chenboye.xp3.biz<br><strong>Password:</strong> 123321</p>
+		<strong>Username:</strong> chenboye.xp3.biz<br><strong>Password:</strong> 123*</p>
 		<p style="margin-top: 10px; margin-bottom: 10px; margin-left: 0px;">
 		If you have accounts created on more than one server, see
 		<a href="http://www.freewebhostingarea.com/members/" style="color: #0000FF">
 		http://www.freewebhostingarea.com/members/</a>.</p>
 		<p style="margin-top: 10px; margin-bottom: 10px; margin-left: 0px;">
 		Some scripts require server path. Yours is <em>/home/vhosts/chenboye.xp3.biz</em>.</p></td></tr>
-	<tr>
-		<td style="background-color: #C8D7E3; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 13px;" colspan="2"><strong>Your Personal FTP Information</strong></td>
-	</tr>
-	<tr>
+	
+<tr>
 		<td style="background-color: #FFFFFF;" colspan="2">
 		<p style="margin-top: 10px; margin-bottom: 10px; margin-left: 10px;">
 		<span style="font-family: Verdana, Geneva, Tahoma, sans-serif">
@@ -47,7 +34,7 @@
 		Login/Username:</span></strong><span style="font-size: 12px"> chenboye.xp3.biz</span></span><br style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 12px">
 		<span style="font-family: Verdana, Geneva, Tahoma, sans-serif"><strong>
 		<span style="font-size: 12px">FTP PassWord:</span></strong><span style="font-size: 12px"> 
-		123321</span></span></p>
+		123*</span></span></p>
 		<p style="margin-top: 10px; margin-bottom: 10px; margin-left: 0px;">
 		<span style="font-family: Verdana, Geneva, Tahoma, sans-serif">
 		<span style="font-size: 12px">To upload your files, you may use free ftp programs 
@@ -73,10 +60,8 @@
 		<span style="font-size: 12px">http://chenboye.xp3.biz/ftp/help.html</span></a></span>.</p>
 		</td>
 	</tr>
-	<tr>
-		<td style="background-color: #C8D7E3; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 13px;" colspan="2"><strong>MySQL database Information</strong></td>
-	</tr>
-	<tr>
+	
+<tr>
 		<td colspan="2">
 		<br>
 		<span style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 12px">At</span><strong> 
@@ -117,43 +102,5 @@
 		<span style="font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 12px">Database details (database name, db 
 		username and db password) will be provided at Control Panel once you 
 		create the database.</span></span><br><br></td>
-	</tr>
-	<tr>
-		<td style="background-color: #C8D7E3; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 13px;" colspan="2"><strong>Other features at FreeWHA Control Panel</strong></td>
-	</tr>
-	<tr>
-		<td colspan="2">
-		<p style="margin-left: 10px; margin-top: 10px; margin-bottom: 10px"><strong>
-		<span style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif">Configure PHP</span><br style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif">
-</strong><span style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif">you may activate 
-		PHP and choose between PHP 5.6, 7.1, 7.2 or 7.3.</span></p>
-		<p style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif; margin-left: 10px; margin-top: 10px; margin-bottom: 0px">
-		<strong>Reset Account</strong></p>
-		<p style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif; margin-left: 10px; margin-top: 0px; margin-bottom: 10px">
-		useful if you want to delete all files and databases under your account 
-		and start fresh.</p>
-		<p style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif; margin-left: 10px; margin-top: 0px; margin-bottom: 0px">
-		<strong>Fix Ownership</strong></p>
-		<p style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif; margin-left: 10px; margin-top: 0px; margin-bottom: 10px">
-		when you unpack an archive or use other php scripts, some files are 
-		created with webserver permissions and you are no longer able to 
-		edit/delete them. This feature will fix permissions and you regain 
-		access to all files under your account.</p></td>
-	</tr>
-	<tr>
-		<td style="background-color: #F1F1F1;" colspan="2"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
-		<span style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif">
-		We have full support for mod_rewrite or dot files (.htaccess, .htpasswd). 
-		But take care! A wrong .htaccess file may block your site and instead 
-		you will see a 500 internal server error.</span><br style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif">
-		<span style="font-size: 12px; font-family: Verdana, Geneva, Tahoma, sans-serif">
-		Use a very hard to guess password to prevent your account being hacked 
-		and install only new and optimized scripts. Take care with full 
-		permissions 777! For security reasons, folders must have permissions 755 
-		and files 644.</span></td>
-	</tr>
-<tr><td style="background-color: #F1F1F1;" colspan="2"></td></tr>
-</tbody>
+	</tr>	
+</table>
